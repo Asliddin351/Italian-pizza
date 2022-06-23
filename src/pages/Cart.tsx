@@ -125,9 +125,9 @@ const Cart: React.FC = () => {
 
               <span>Вернуться назад</span>
             </Link>
-            <div className="button pay-btn">
-              <span>Оплатить сейчас</span>
-            </div>
+            <a href="tel:+998915469700" className="button pay-btn">
+              <span>Связаться с нами</span>
+            </a>
           </div>
         </div>
       </div>
